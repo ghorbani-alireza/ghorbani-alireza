@@ -80,7 +80,53 @@
 
 ---
 
+## 🛠️ Languages & Tools  
 
+<p align="left">
+  <!-- R Ecosystem -->
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://www.r-project.org/Rlogo.png" alt="R" width="48" height="40"/>
+  </a>
+  <a href="https://shiny.rstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/shiny.png" alt="Shiny" width="40" height="40"/>
+  </a>
+  <a href="https://ggplot2.tidyverse.org/" target="_blank">
+    <img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="40" height="40"/>
+  </a>
+  <a href="https://posit.co/products/open-source/rstudio/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/rstudio/rstudio-icon.svg" alt="RStudio" width="40" height="40"/>
+  </a>
+
+  <!-- MATLAB -->
+  <a href="https://www.mathworks.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  </a>
+
+  <!-- Python Ecosystem -->
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://plotly.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="Plotly" width="40" height="40"/>
+  </a>
+
+  <!-- SQL Databases -->
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+</p>
 
 ## 📊 GitHub Stats  
 
