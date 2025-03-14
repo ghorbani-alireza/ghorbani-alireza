@@ -62,7 +62,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
   <a href="https://shiny.rstudio.com/" target="_blank">
-    <img src="https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png" alt="Shiny" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/shiny.png" alt="Shiny" width="40" height="40"/>
   </a>
   <a href="https://ggplot2.tidyverse.org/" target="_blank">
     <img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="40" height="40"/>
@@ -74,7 +74,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://posit.co/products/open-source/rstudio/" target="_blank">
-    <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" alt="RStudio" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1200px-RStudio_logo_flat.svg.png" alt="RStudio" width="40" height="40"/>
   </a>
 </p>
 
@@ -86,9 +86,7 @@
   <!-- Previous icons remain unchanged -->
 
   <!-- Shiny Icon -->
-  <a href="https://shiny.rstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/shiny.png" alt="Shiny" width="40" height="40"/>
-  </a>
+  
   
   <!-- Tableau Icon -->
   <a href="https://www.tableau.com/" target="_blank">
@@ -106,9 +104,7 @@
   </a>
   
   <!-- RStudio Icon -->
-  <a href="https://posit.co/products/open-source/rstudio/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1200px-RStudio_logo_flat.svg.png" alt="RStudio" width="40" height="40"/>
-  </a>
+  
 </p>
 
 
