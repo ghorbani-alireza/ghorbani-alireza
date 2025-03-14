@@ -74,38 +74,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://posit.co/products/open-source/rstudio/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1200px-RStudio_logo_flat.svg.png" alt="RStudio" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1200px-RStudio_logo_flat.svg.png" alt="RStudio" width="100" height="40"/>
   </a>
 </p>
 
 ---
-
-## 🛠️ Languages & Tools  
-
-<p align="left">
-  <!-- Previous icons remain unchanged -->
-
-  <!-- Shiny Icon -->
-  
-  
-  <!-- Tableau Icon -->
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
-  </a>
-  
-  <!-- ggplot2 Icon -->
-  <a href="https://ggplot2.tidyverse.org/" target="_blank">
-    <img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="40" height="40"/>
-  </a>
-  
-  <!-- Plotly Icon -->
-  <a href="https://plotly.com/" target="_blank">
-    <img src="https://plotly.com/wp-content/uploads/2016/07/Plotly_Logo.png" alt="Plotly" width="80" height="25"/>
-  </a>
-  
-  <!-- RStudio Icon -->
-  
-</p>
 
 
 
