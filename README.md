@@ -89,3 +89,14 @@
 </p>
 
 
+
+## 🛠️ Languages & Tools  
+
+<p align="left">
+  <!-- Other icons remain unchanged -->
+
+  <!-- Plotly Icon (Updated) -->
+  <a href="https://plotly.com/" target="_blank">
+    <img src="https://plotly.com/wp-content/uploads/2016/07/Plotly_Logo.png" alt="Plotly" width="100" height="28" style="vertical-align: middle"/>
+  </a>
+</p>
