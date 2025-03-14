@@ -89,9 +89,6 @@
 
 ---
 
-## 🛠️ Languages & Tools  
-
-
 ## 📊 GitHub Stats  
 
 <p align="left">
