@@ -64,9 +64,6 @@
   <a href="https://shiny.rstudio.com/" target="_blank">
     <img src="https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png" alt="Shiny" width="40" height="40"/>
   </a>
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
-  </a>
   <a href="https://ggplot2.tidyverse.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ggplot2.png" alt="ggplot2" width="40" height="40"/>
   </a>
@@ -82,6 +79,29 @@
 </p>
 
 ---
+
+
+## 🛠️ Languages & Tools  
+
+<p align="left">
+  <!-- Previous icons remain unchanged -->
+  
+  <!-- Fixed icons -->
+  <a href="https://shiny.rstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ghorbani-alireza/ghorbani-alireza/main/images/shiny.png" alt="Shiny" width="40" height="40"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="80" height="40"/>
+  </a>
+  <a href="https://ggplot2.tidyverse.org/" target="_blank">
+    <img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="40" height="40"/>
+  </a>
+  <a href="https://posit.co/products/open-source/rstudio/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/rstudio/rstudio-icon.svg" alt="RStudio" width="40" height="40"/>
+  </a>
+</p>
+
+
 
 ## 📊 GitHub Stats  
 
