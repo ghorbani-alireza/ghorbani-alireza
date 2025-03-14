@@ -7,8 +7,8 @@
 </p>
  
 📍 MSc Student in Epidemiology at [LMU Munich](https://www.lmu.de/en/)  
-🔬 Interested in **Statistical Learning, High-Dimensional Statistics, Genetic Epidemiology, and Bayesian Statistics**  
-📊 Passionate about **R, Python, Machine Learning, and Statistics**  
+🔬 Interested in **Statistical Learning, Cancer Epidemiology, and Bayesian Statistics**  
+📊 Passionate about **Statistics and Epidemiology**  
 
 💻 Explore my [Personal Webpage](https://ghorbani-alireza.github.io/)  
 📧 Reach me via email: **ghorbani.alireza@campus.lmu.de**  
