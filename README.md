@@ -5,13 +5,14 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=ghorbani-alireza&label=Profile%20views&color=0e75b6&style=flat" alt="ghorbani-alireza" /> 
 </p>
- 
-📍 MSc Student in Epidemiology at [LMU Munich](https://www.lmu.de/en/)  
+
+📍 Research Associate at [Technical University of Munich](https://www.sg.tum.de/php/startseite/)  
+📍 MSc Student in Epidemiology at [Ludwig-Maximilians University of Munich](https://www.lmu.de/en/)  
 🔬 Interested in **Statistical Learning, Cancer Epidemiology, and Bayesian Statistics**  
 📊 Passionate about **Statistics and Epidemiology**  
 
 💻 Explore my [Personal Webpage](https://ghorbani-alireza.github.io/)  
-📧 Reach me via email: **ghorbani.alireza@campus.lmu.de**  
+
 
 ---
 
