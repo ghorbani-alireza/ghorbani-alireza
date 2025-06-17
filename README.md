@@ -7,7 +7,7 @@
 </p>
 
 📍 Research Associate at [Technical University of Munich](https://www.sg.tum.de/php/startseite/)  
-📍 MSc Student in Epidemiology at [Ludwig-Maximilians University of Munich](https://www.lmu.de/en/)  
+📍 MSc Student in Epidemiology at [Ludwig Maximilians University of Munich](https://www.lmu.de/en/)  
 🔬 Interested in **Statistical Learning, Cancer Epidemiology, and Bayesian Statistics**  
 📊 Passionate about **Statistics and Epidemiology**  
 
