@@ -10,9 +10,7 @@
 
 📍 MSc Student in Epidemiology at [Ludwig Maximilians University of Munich](https://www.lmu.de/en/)  
 
-🔬 Interested in **Statistical Learning, Cancer Epidemiology, and Bayesian Statistics**  
-
-📊 Passionate about **Statistics and Epidemiology**  
+🔬 Student of **Statistics and Epidemiology**  
 
 💻 Explore my [Personal Webpage](https://ghorbani-alireza.github.io/)  
 
