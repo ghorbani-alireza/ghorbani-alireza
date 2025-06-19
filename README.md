@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=ghorbani-alireza&label=Profile%20views&color=0e75b6&style=flat" alt="ghorbani-alireza" /> 
 </p>
 
-📍 Graduate Research Assistant at [Technical University of Munich](https://www.sg.tum.de/php/startseite/)  & [Munich Center for Machine Learning](https://mcml.ai/) 
+📍 Graduate Research Assistant at [Technical University of Munich](https://www.sg.tum.de/php/startseite/) & [Munich Center for Machine Learning](https://mcml.ai/)
 📍 MSc Student in Epidemiology at [Ludwig Maximilians University of Munich](https://www.lmu.de/en/)  
 🔬 Interested in **Statistical Learning, Cancer Epidemiology, and Bayesian Statistics**  
 📊 Passionate about **Statistics and Epidemiology**  
