@@ -7,8 +7,11 @@
 </p>
 
 📍 Graduate Research Assistant at [Technical University of Munich](https://www.sg.tum.de/php/startseite/) & [Munich Center for Machine Learning](https://mcml.ai/)
+
 📍 MSc Student in Epidemiology at [Ludwig Maximilians University of Munich](https://www.lmu.de/en/)  
+
 🔬 Interested in **Statistical Learning, Cancer Epidemiology, and Bayesian Statistics**  
+
 📊 Passionate about **Statistics and Epidemiology**  
 
 💻 Explore my [Personal Webpage](https://ghorbani-alireza.github.io/)  
